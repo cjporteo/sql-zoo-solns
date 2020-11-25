@@ -6,5 +6,5 @@ An archive of my solutions for the SQL exercises on sqlzoo.net
 
 Since solutions aren't available anywhere on the site (AFAIK) and they aren't saved anywhere after submitting, I decided to post all my successful queries here for reference.
 
-Cheers,
+Cheers,<br>
 Cam

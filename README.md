@@ -1,5 +1,5 @@
 # sql-zoo-solns
-An archive of my solutions for the SQL exercises on sqlzoo.net
+An archive of my solutions for the SQL exercises on sqlzoo
 
 ## About
 [sqlzoo.net](https://sqlzoo.net) is a wonderful resource to learn SQL and practice writing queries in an interactive environment. Think a low-profile LeetCode for SQL. I have no affiliation with the website, but found great value in various lessons.

@@ -8,3 +8,6 @@ Since solutions aren't available anywhere on the site (AFAIK) and they aren't sa
 
 Cheers,<br>
 Cam
+
+## Future Plans for this Repo
+It would pretty nice to have all the solutions listed right here in the readme for easy viewing. I'll get to this eventually...
